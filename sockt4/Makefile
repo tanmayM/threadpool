@@ -1,4 +1,3 @@
-#g++ sockt4.cpp -fPIC --shared -o libsockt4.soa
 
 
 CFLAGS = -fPIC --shared
